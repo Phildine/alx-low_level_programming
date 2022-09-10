@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
+ * main - Entry point 
+ *
  * main - prints alphabets in lowercase
- * return: 0
- **/
+ * Return: Always  0 (success)
+ */
 
 int main(void)
 {
