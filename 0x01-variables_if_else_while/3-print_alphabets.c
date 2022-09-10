@@ -20,6 +20,6 @@ int main(void)
 		putchar(u_letter);
 	}
 	putchar('\n');
-	
+
 	return (0);
 }
