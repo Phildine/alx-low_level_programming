@@ -4,7 +4,6 @@
 /**
  *main - Entry point
  *main - 'prints alphabets in lowercase'
- * 
  *Return: Always 0 (success)
  */
 
