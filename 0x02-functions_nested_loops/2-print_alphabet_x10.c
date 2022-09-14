@@ -1,5 +1,7 @@
 #include "main.h"
 /*
+ * main - Entry point
+ * Description: 'programme prints a letter 10 times'
  * print_alphabet_x10 - prints alphabet 10 times
  *
  * Return: void
