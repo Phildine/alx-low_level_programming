@@ -4,7 +4,6 @@
  * _isupper - define if a character is uppercase
  * Decription: Prints the alphabet with _putchar
  * @c: character to check for uppecase
- * 
  * Return: void
  */
 
