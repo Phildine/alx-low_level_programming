@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_numbers - entry point 
- * Description: Prints the numbr with _putchar
+ * print_numbers - entry point
+ * Description: Prints the number with _putchar
  * Return: void
  */
 
